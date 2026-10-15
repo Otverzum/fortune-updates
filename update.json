@@ -1,0 +1,10 @@
+{
+  "versionCode": 7,
+  "versionName": "1.3.3",
+  "minVersionCode": 0,
+  "downloadUrl": "https://github.com/Otverzum/fortune-updates/releases/download/app/FortuneWheel.apk",
+  "changelog": "Нижняя панель навигации стала матовой: контент под ней больше не просвечивает. Также в этой серии: новая заставка с колесом фортуны, защита от неофициальных копий и обновлённое обучение.",
+  "changelogI18n": {
+    "en": "The bottom navigation bar is now frosted: content no longer shows through it. This series also brings a new Wheel of Fortune splash screen, protection against unofficial copies and updated onboarding."
+  }
+}
